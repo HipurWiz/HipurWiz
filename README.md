@@ -1,10 +1,13 @@
-- 👋 Hi, I’m Hipur
-- 🔨 I'm currently developing a Discord bot called Wit. More information can be found in the Wit-Help repository.
-- 🌱 I’m currently learning C++ and training for USACO.
+# 👋 Hi!
 
-Yes, this is literally just the Github template.
+I am a developer who is currently training for USACO and learning C++. I also have a Discord bot called Wit. Check out the Wit-Help repository to find more information on that or click this link: https://github.com/HipurWiz/Wit-Help. Most of my code is in private repositories.
 
-<!---
-HipurWiz/HipurWiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 💻 Languages
+
+Ranked by most familiar.
+
+ - C++
+ - JavaScript and Node.js
+ - Java
+ - HTML/CSS
+ - Python
