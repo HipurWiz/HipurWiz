@@ -11,3 +11,9 @@ Ranked by most familiar.
  - Java
  - HTML/CSS
  - Python
+
+# ℹ️ Other Information
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hipurwiz&theme=dark)
+
+![Most Used Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=hipurwiz&theme=dark)
