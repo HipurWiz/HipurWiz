@@ -1,8 +1,4 @@
-# 👋 Hi!
-
-Big dubs 
-
-# ℹ️ Other Information
+# ℹ️ Stuff
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hipurwiz&theme=dark)
 
